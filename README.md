@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Development
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Nothing Right Now..
-- 📫 How to reach me : Discord : just_fup
+- 📫 How to reach me : Aayanasif1234@gmail.com
 
 <!---
 Aayan-DEV/Aayan-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
